@@ -6,7 +6,7 @@ export default class OAutorze extends React.Component {
         const author = {name: "Imię", surname: "Nazwisko"};
         return (
             <div>
-                Imię: {author.name}, Nazwisko: {author.surname}
+                Imięj: {author.name}, Nazwisko: {author.surname}
             </div>
         );
 
