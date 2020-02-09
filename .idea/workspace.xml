@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81b4b494-9899-4a51-9e7a-39997b82f18c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -34,17 +35,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581252816984</updated>
-      <workItem from="1581252818172" duration="1530000" />
+      <workItem from="1581252818172" duration="1681000" />
     </task>
+    <task id="LOCAL-00001" summary="ge">
+      <created>1581254495416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581254495416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ge" />
+    <option name="LAST_COMMIT_MESSAGE" value="ge" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="648" y="312" key="git4idea.merge.GitPullDialog" timestamp="1581254471415">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581254494853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="648" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581254471415" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581254494853" />
+    <state x="184" y="92" key="DiffContextDialog" timestamp="1581254592334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="92" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581254592334" />
+    <state x="648" y="312" key="git4idea.merge.GitPullDialog" timestamp="1581254690477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="648" y="312" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581254690477" />
+    <state x="756" y="421" key="git4idea.ui.GitStashDialog" timestamp="1581254600536">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="421" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581254600536" />
   </component>
 </project>
