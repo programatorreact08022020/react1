@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import OAutorze from './oAutorze/oAutorze';
+import RouterExample from './Nawigacja/nawigacja';
 
-ReactDOM.render(<OAutorze />, document.getElementById('root'));
+ReactDOM.render(<RouterExample />, document.getElementById('root'));
 
