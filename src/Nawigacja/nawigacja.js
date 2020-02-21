@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 
 import OAutorze from "../oAutorze/oAutorze";
+import Form from "../form/form";
 
 export default function RouterExample() {
     return (
@@ -16,6 +17,9 @@ export default function RouterExample() {
                     <li>
                         <Link to="/oAutorze222"> O Autorze</Link>
                     </li>
+                    <li>
+                        <Link to="/formularz"> Formularz</Link>
+                    </li>
                 </ul>
 
                 <hr/>
@@ -23,6 +27,10 @@ export default function RouterExample() {
                 <Switch>
                     <Route exact path="/oAutorze222">
                         <OAutorze/>
+                    </Route>
+
+                    <Route exact path="/formularz">
+                        <Form/>
                     </Route>
                 </Switch>
 
