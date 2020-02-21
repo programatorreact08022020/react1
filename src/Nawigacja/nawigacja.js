@@ -1,4 +1,5 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.css';
 import {
     BrowserRouter as Router,
     Switch,
@@ -13,15 +14,16 @@ export default function RouterExample() {
     return (
         <Router>
             <div>
-                <ul>
-                    <li>
-                        <Link to="/oAutorze222"> O Autorze</Link>
+                <nav className="navbar navbar-expand-lg navbar-light bg-light">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <Link class="nav-link" to="/oAutorze222"> O Autorze</Link>
                     </li>
-                    <li>
-                        <Link to="/formularz"> Formularz</Link>
+                    <li class="nav-item active">
+                        <Link class="nav-link" to="/formularz"> Formularz</Link>
                     </li>
                 </ul>
-
+                </nav>
                 <hr/>
 
                 <Switch>
